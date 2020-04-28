@@ -1,0 +1,22 @@
+[
+    {
+      "price": "260",
+      "name": "Facebook"
+    },
+    {
+      "price": "252",
+      "name": "Google"
+    },
+    {
+      "price": "240.5",
+      "name": "Microsoft"
+    },
+    {
+      "price": "257",
+      "name": "Apple"
+    },
+    {
+      "price": "270.4",
+      "name": "Amazon"
+    }
+]
